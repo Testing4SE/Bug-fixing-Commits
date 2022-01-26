@@ -1,6 +1,6 @@
 # Application
 |ID | Application | SHA | \#Commits|
-|----|-----------------| ||
+|----|-----------------|------|---------|
 |1  |     commons-math| | |
 |2  |  commons-io        | ||
 |3  |  closure-compiler    || |
