@@ -1,4 +1,4 @@
-# Application
+## Application
 The evaluation is based on 15 well-known open-source applicatons. An overview of the subject applications is presented in the following Table.
 
 |ID | Application | SHA | \#Commits|
