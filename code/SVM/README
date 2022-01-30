@@ -1,0 +1,9 @@
+## Semantic NGram based Classifier
+
+The semantic ngram based classifier(snClassifier) have three inputs:
+
+·commit message·
+
+·semantic ngrams (i.e., sngrams)·
+
+·statistic metrics of changes·
