@@ -1,11 +1,11 @@
 ## Application
 The evaluation is based on 15 well-known open-source applicatons. An overview of the subject applications is presented in the following Table.
 
-|ID | Application | Repository | Earliest Time| Latest Time| \#Commits|
-|----|-----------------|------|---------|-------|------|
-|1  |     commons-math| | |
-|2  |  commons-io        | ||
-|3  |  closure-compiler    || |
+|ID | Application     | Repository | Earliest Time| Latest Time| \#Commits|
+|---|-----------------|------|---------|-------|------|
+|1  |  commons-math   |  https://github.com/apache/commons-math.git |2003/5/21 14:21 | 2021/8/22 21:30 | 524|
+|2  |  commons-io     | ||
+|3  |closure-compiler || |
 |4  |    commons-imaging   | ||
 |5  |    commons-pool      |  ||
 |6  |gson|||
